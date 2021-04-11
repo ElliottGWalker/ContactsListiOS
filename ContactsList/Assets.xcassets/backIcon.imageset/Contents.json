@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "PNGIX.com_arrow-icon-png_526365.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "PNGIX.com_arrow-icon-png_526365@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "PNGIX.com_arrow-icon-png_526365@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
